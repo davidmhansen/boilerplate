@@ -4,3 +4,8 @@
 @import './base/grid';
 @import './base/typography/type-scale';
 @import './base/typography/index.scss';
+
+// utils
+@import './utils/responsive';
+@import './utils/variables';
+@import './utils/mixins';
